@@ -1,4 +1,4 @@
-### Travel Diary
+# Travel Diary
 A Travel Diary application built with React and Node.js, allowing users to add, view, search, edit, and delete travel entries. The application features a responsive UI with a gradient background, and integrates with MongoDB for data storage.
 
 **Backend repo link**- https://github.com/megha-nair/TravelDiary.git
